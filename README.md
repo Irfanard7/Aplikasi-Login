@@ -1,8 +1,7 @@
-# Aplikasi-Login
-Sebuah aplikasi dengan fitur login
+#Pengalaman Belajar
+Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
-Alur Fitur Login:
-1. Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman home.
-4. ngetes aja
+14 Juni 2021
+Belajar Kelas Memulai Pemrograman dengan Java. (Progres 21%)
+  *Belajar tentang apa itu Java dan alasan menggunakannya.
+  *Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
